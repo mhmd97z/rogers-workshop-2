@@ -1,0 +1,6 @@
+theme: minima
+title: Rogers Executive Workshop 2
+description: The second Rogers Executive Workshop, presented as part of the Rogers Chair in Network Automation.
+
+header_pages:
+  - resources.md
