@@ -37,7 +37,6 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
     <tr>
       <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Coffee Break</strong></td>
     </tr>
-
     <tr>
       <td>10:30 AM - 10:45 AM</td>
       <td>  E2 Service Model and KPM​ </td>
@@ -48,7 +47,6 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
       <td>  Hands-on: KPM E2SM​​ </td>
       <td></td>
     </tr>
-    
     <tr>
       <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Lunch Break</strong></td>
     </tr>
