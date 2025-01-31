@@ -50,5 +50,18 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
     <tr>
       <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Lunch Break</strong></td>
     </tr>
+    <tr>
+      <td>1:00 PM - 01:30 PM</td>
+      <td> Overview of RAN Slicing and scheduling algorithm​​ </td>
+      <td><a href="https://uofwaterloo-my.sharepoint.com/:b:/g/personal/mzangooe_uwaterloo_ca/EaepG6QNeiZDpKfL9GkX6-UB6S5KZ8GlbBh_mj1atMc7TA?e=Ns3etP">Slides</a></td>
+    </tr>
+    <tr>
+      <td>01:30 AM - 02:30 PM</td>
+      <td> Hands-on: RAN Slicing Deployment and Scaling​ </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Coffee Break</strong></td>
+    </tr>
   </tbody>
 </table>
