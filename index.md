@@ -13,6 +13,49 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
 
 ### Day 1 (Date: TBD): Deploying an open-source 5G RAN testbed​
 
+<table border="0">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Session</th>
+      <th>Resources</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9:30 AM - 10:00 AM</td>
+      <td> Introduction to 5G O-RAN​ </td>
+      <td><a href="https://uofwaterloo-my.sharepoint.com/:b:/g/personal/mzangooe_uwaterloo_ca/EaepG6QNeiZDpKfL9GkX6-UB6S5KZ8GlbBh_mj1atMc7TA?e=Ns3etP">Slides</a></td>
+    </tr>
+    <tr>
+      <td>10:00 AM - 10:45 PM</td>
+      <td> Deployment and configuration of a 5G O-RAN testbed​ </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Coffee Break</strong></td>
+    </tr>
+    <tr>
+      <td>11:00 AM - 12:00 PM</td>
+      <td>  Deployment and configuration of a  5G O-RAN testbed (cont'd) </td>
+      <td><a href="https://uofwaterloo-my.sharepoint.com/:b:/g/personal/mzangooe_uwaterloo_ca/EZawzCDqrIZPvwmGGb-5wp8B6APFBcfCqtiQ8iELTUcYPQ?e=pr65dz">Slides</a></td>
+    </tr>
+    <tr>
+      <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Lunch Break</strong></td>
+    </tr>
+    <tr>
+      <td>1:00 PM - 1:15 PM</td>
+      <td>  Deployment and configuration of a  5G O-RAN testbed (cont'd) </td>
+      <td><a href="https://uofwaterloo-my.sharepoint.com/:b:/g/personal/mzangooe_uwaterloo_ca/EZawzCDqrIZPvwmGGb-5wp8B6APFBcfCqtiQ8iELTUcYPQ?e=pr65dz">Slides</a></td>
+    </tr>
+    <tr>
+      <td>1:15 PM - 2:00 PM</td>
+      <td>  E2E Performance testing and troubleshooting </td>
+      <td><a href="https://uofwaterloo-my.sharepoint.com/:b:/g/personal/mzangooe_uwaterloo_ca/EZawzCDqrIZPvwmGGb-5wp8B6APFBcfCqtiQ8iELTUcYPQ?e=pr65dz">Slides</a></td>
+    </tr>
+  </tbody>
+</table>
+
 ### Day 2 (Date: TBD): RAN Monitoring and Control in ORAN
 
 <table border="0">
