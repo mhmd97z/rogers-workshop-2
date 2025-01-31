@@ -27,7 +27,7 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
     <tr>
       <td>9:00 AM - 09:30 AM</td>
       <td> Introduction to Radio Intelligence Controller (RIC)​ </td>
-      <td><a href="https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/Ec-IgYDYxoNPqzz_B6I_BSMBg88t2JdNEBmCWpq_9OIckw?e=NYDzTO">Slides</a></td>
+      <td><a href="https://uofwaterloo-my.sharepoint.com/:b:/g/personal/mzangooe_uwaterloo_ca/EaepG6QNeiZDpKfL9GkX6-UB6S5KZ8GlbBh_mj1atMc7TA?e=Ns3etP">Slides</a></td>
     </tr>
     <tr>
       <td>09:30 AM - 10:15 PM</td>
@@ -40,7 +40,7 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
     <tr>
       <td>10:30 AM - 10:45 AM</td>
       <td>  E2 Service Model and KPM​ </td>
-      <td><a href="https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/Ec-IgYDYxoNPqzz_B6I_BSMBg88t2JdNEBmCWpq_9OIckw?e=NYDzTO">Slides</a></td>
+      <td><a href="https://uofwaterloo-my.sharepoint.com/:b:/g/personal/mzangooe_uwaterloo_ca/EZawzCDqrIZPvwmGGb-5wp8B6APFBcfCqtiQ8iELTUcYPQ?e=pr65dz">Slides</a></td>
     </tr>
     <tr>
       <td>10:45 AM - 12:00 PM</td>
