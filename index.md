@@ -82,7 +82,7 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
     </tr>
     <tr>
       <td>10:30 AM - 10:45 AM</td>
-      <td>  E2 Service Model and KPM​: Hands-on </td>
+      <td>  RAN Monitoring with xApps​: Hands-on </td>
       <td><a href="https://docs.google.com/presentation/d/1u94rrCBXczxzq6w8mbUnawZTUAH5uYbFOHmpJrfDEvc/edit?usp=sharing">Slides</a></td>
     </tr>
     <tr>
