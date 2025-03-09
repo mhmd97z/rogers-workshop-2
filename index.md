@@ -45,13 +45,8 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
       <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Lunch Break</strong></td>
     </tr>
     <tr>
-      <td>1:00 PM - 1:15 PM</td>
+      <td>1:00 PM - 2 PM</td>
       <td>  Deployment and configuration of a  5G O-RAN testbed (cont'd) </td>
-      <td><a href="https://docs.google.com/presentation/d/1D1yJoU2VZtM1oFWaK-PkXt-Al_a-P2nl8pZOX2KaxxA/edit?usp=sharing">Slides</a></td>
-    </tr>
-    <tr>
-      <td>1:15 PM - 2:00 PM</td>
-      <td>  E2E Performance testing and troubleshooting </td>
       <td><a href="https://docs.google.com/presentation/d/1D1yJoU2VZtM1oFWaK-PkXt-Al_a-P2nl8pZOX2KaxxA/edit?usp=sharing">Slides</a></td>
     </tr>
   </tbody>
