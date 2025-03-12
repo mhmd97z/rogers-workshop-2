@@ -91,7 +91,7 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
     <tr>
       <td>01:30 AM - 02:30 PM</td>
       <td> Hands-on: RAN Slicing Deployment and Scaling​ </td>
-      <td></td>
+      <td><a href="https://docs.google.com/presentation/d/1Kapqom_5IcAXDbL99yX7n3R7E5O4BoaktbbulsA3m60/edit#slide=id.g33c8d6c3dd2_0_54">Slides</a> </td>
     </tr>
     <tr>
       <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Coffee Break</strong></td>
