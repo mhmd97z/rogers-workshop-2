@@ -69,7 +69,7 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
     </tr>
     <tr>
       <td>09:30 AM - 10:15 PM</td>
-      <td> FlexRIC and E2 Interface:​ Hands-on </td>
+      <td> Hands-on: FlexRIC and E2 Interface </td>
       <td><a href="https://docs.google.com/presentation/d/11U4f6PsRjpgJUvL5to354b7dBU9CYaVWB3wBYRlrCsU/edit?usp=sharing">Slides</a> </td>
     </tr>
     <tr>
@@ -77,7 +77,7 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
     </tr>
     <tr>
       <td>10:30 AM - 10:45 AM</td>
-      <td>  RAN Monitoring with xApps​: Hands-on </td>
+      <td>  Hands-on: RAN Monitoring with xApps​ </td>
       <td><a href="https://docs.google.com/presentation/d/1u94rrCBXczxzq6w8mbUnawZTUAH5uYbFOHmpJrfDEvc/edit?usp=sharing">Slides</a></td>
     </tr>
     <tr>
