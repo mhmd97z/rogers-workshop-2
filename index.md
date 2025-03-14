@@ -96,5 +96,10 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
     <tr>
       <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Coffee Break</strong></td>
     </tr>
+    <tr>
+      <td>02:45 AM - 04:00 PM</td>
+      <td> Hands-on: ML-based Slice Type Classification in Near-RT RIC </td>
+      <td><a href="https://docs.google.com/presentation/d/15u0hudryCLSr2VanGmN6NaWcesRoYuy3Kt70vrwrJoM/edit?usp=sharing">Slides</a> </td>
+    </tr>
   </tbody>
 </table>
