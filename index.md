@@ -86,7 +86,7 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
     <tr>
       <td>1:00 PM - 01:30 PM</td>
       <td> Overview of RAN Slicing and scheduling algorithm​​ </td>
-      <td><a href="https://docs.google.com/presentation/d/1Kapqom_5IcAXDbL99yX7n3R7E5O4BoaktbbulsA3m60/edit#slide=id.g331bbffe85a_0_0">Slides</a></td>
+      <td><a href="https://docs.google.com/presentation/d/1-2qAOxKiIWGnbAuQahYV6eiaAtKxyKP9i6-gYotsBCs/edit#slide=id.g31d3b6ce18c_0_72">Slides</a></td>
     </tr>
     <tr>
       <td>01:30 AM - 02:30 PM</td>
