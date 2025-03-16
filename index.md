@@ -63,8 +63,8 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
   </thead>
   <tbody>
     <tr>
-      <td>9:00 AM - 09:30 AM</td>
-      <td> Introduction to Radio Intelligence Controller (RIC)​ </td>
+      <td>9:30 AM - 10:30 AM</td>
+      <td> Introduction to O-RAN and Near-Real-Time Radio Intelligent Controller (Near-RT RIC)​ </td>
       <td><a href="https://docs.google.com/presentation/d/1f7Eud_zbzXoGaJg9Vp3gRAk9DzrMNRfVaJrb2cKWQoo/edit?usp=sharing">Slides</a></td>
     </tr>
     <tr>
@@ -77,7 +77,7 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
     </tr>
     <tr>
       <td>10:30 AM - 10:45 AM</td>
-      <td>  Hands-on: RAN Monitoring with xApps​ </td>
+      <td>  Hands-on: RAN Monitoring with E2 KPM and xApps​ </td>
       <td><a href="https://docs.google.com/presentation/d/1u94rrCBXczxzq6w8mbUnawZTUAH5uYbFOHmpJrfDEvc/edit?usp=sharing">Slides</a></td>
     </tr>
     <tr>
@@ -85,7 +85,7 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
     </tr>
     <tr>
       <td>1:00 PM - 01:30 PM</td>
-      <td> Overview of RAN Slicing and scheduling algorithm​​ </td>
+      <td> Overview of RAN Slicing </td>
       <td><a href="https://docs.google.com/presentation/d/1-2qAOxKiIWGnbAuQahYV6eiaAtKxyKP9i6-gYotsBCs/edit#slide=id.g31d3b6ce18c_0_72">Slides</a></td>
     </tr>
     <tr>
