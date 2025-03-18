@@ -25,7 +25,7 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
     <tr>
       <td>9:30 AM - 10:00 AM</td>
       <td> Introduction to 5G O-RAN​ </td>
-      <td>Slides</td>
+      <td><a href="https://docs.google.com/presentation/d/1D1yJoU2VZtM1oFWaK-PkXt-Al_a-P2nl8pZOX2KaxxA/edit#slide=id.g33986a9d171_1_0">Slides</a></td>
     </tr>
     <tr>
       <td>10:00 AM - 10:45 PM</td>
