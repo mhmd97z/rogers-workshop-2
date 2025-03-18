@@ -17,5 +17,5 @@ sudo ip address add 10.10.3.231/24 dev n3br
 
 sudo sed -i 's/127.0.0.53/8.8.8.8/g' /etc/resolv.conf
 
-sudo docker run --detach  --rm --publish 5202:5201 --name iperf-server-1 networkstatic/iperf3 -s
 sudo docker run --detach  --rm --publish 5201:5201 --name iperf-server-1 networkstatic/iperf3 -s
+sudo docker run --detach  --rm --publish 5202:5201 --name iperf-server-2 networkstatic/iperf3 -s
