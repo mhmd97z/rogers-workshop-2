@@ -84,14 +84,9 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
       <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Lunch Break</strong></td>
     </tr>
     <tr>
-      <td>1:30 PM - 01:50 PM</td>
-      <td> Overview of RAN Slicing </td>
-      <td><a href="https://docs.google.com/presentation/d/1-2qAOxKiIWGnbAuQahYV6eiaAtKxyKP9i6-gYotsBCs/edit#slide=id.g31d3b6ce18c_0_72">Slides</a></td>
-    </tr>
-    <tr>
-      <td>01:50 AM - 02:30 PM</td>
-      <td> Hands-on: RAN Slicing Deployment and Scaling​ </td>
-      <td><a href="https://docs.google.com/presentation/d/1Kapqom_5IcAXDbL99yX7n3R7E5O4BoaktbbulsA3m60/edit#slide=id.g33c8d6c3dd2_0_54">Slides</a> </td>
+      <td>1:30 PM - 02:30 PM</td>
+      <td> Introduction to RAN slicing introduction + hands-on session on RAN slicing deployment and slicing xApp</td>
+      <td><a href="https://docs.google.com/presentation/d/1Hev6va0UH2iXOjRbe-dxXaY262V9uDq-42-N-yh2X_I/edit?slide=id.g341e2affccf_0_0#slide=id.g341e2affccf_0_0">Slides</a></td>
     </tr>
     <tr>
       <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Coffee Break</strong></td>
