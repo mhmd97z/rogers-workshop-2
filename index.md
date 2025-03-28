@@ -25,7 +25,7 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
     <tr>
       <td>9:30 AM - 10:00 AM</td>
       <td> Introduction to 5G O-RAN​ </td>
-      <td><a href="https://docs.google.com/presentation/d/1KzGFUqLd5XMvDj4OoYvYe-S50Pe-x5FV-LQ3OMO3-xU/edit#slide=id.g3375409762a_0_62">Slides</a></td>
+      <td><a href="https://uofwaterloo-my.sharepoint.com/:p:/r/personal/mzangooe_uwaterloo_ca/Documents/Rogers/workshops/Introduction%20-%20W2.pptx?d=w2b0667b1f97942ce804e9355b9075611&csf=1&web=1&e=3tKqyR">Slides</a></td>
     </tr>
     <tr>
       <td>10:00 AM - 10:45 PM</td>
