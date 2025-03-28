@@ -29,7 +29,7 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
     </tr>
     <tr>
       <td>10:00 AM - 10:45 PM</td>
-      <td> Deployment and configuration of a 5G O-RAN testbed​ </td>
+      <td> Deployment and configuration of a simulated 5G RAN  </td>
       <td><a href="https://docs.google.com/presentation/d/1D1yJoU2VZtM1oFWaK-PkXt-Al_a-P2nl8pZOX2KaxxA/edit?usp=sharing">Slides</a></td>
     </tr>
     <tr>
@@ -37,7 +37,7 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
     </tr>
     <tr>
       <td>11:00 AM - 12:00 PM</td>
-      <td>  Deployment and configuration of a  5G O-RAN testbed (cont'd) </td>
+      <td>  Deployment and configuration of a 5G O-RAN testbed </td>
       <td><a href="https://docs.google.com/presentation/d/1D1yJoU2VZtM1oFWaK-PkXt-Al_a-P2nl8pZOX2KaxxA/edit?usp=sharing">Slides</a></td>
     </tr>
     <tr>
@@ -45,7 +45,7 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
     </tr>
     <tr>
       <td>1:00 PM - 2:00 PM</td>
-      <td>  Deployment and configuration of a  5G O-RAN testbed (cont'd) </td>
+      <td>  Deployment and configuration of a 5G O-RAN testbed </td>
       <td><a href="https://docs.google.com/presentation/d/1D1yJoU2VZtM1oFWaK-PkXt-Al_a-P2nl8pZOX2KaxxA/edit?usp=sharing">Slides</a></td>
     </tr>
   </tbody>
