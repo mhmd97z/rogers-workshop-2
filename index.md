@@ -37,15 +37,23 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
     </tr>
     <tr>
       <td>11:00 AM - 12:00 PM</td>
-      <td>  Deployment and configuration of a 5G O-RAN testbed </td>
+      <td>  Deployment and configuration of a simulated 5G RAN </td>
       <td><a href="https://docs.google.com/presentation/d/1D1yJoU2VZtM1oFWaK-PkXt-Al_a-P2nl8pZOX2KaxxA/edit?usp=sharing">Slides</a></td>
     </tr>
     <tr>
       <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Lunch Break</strong></td>
     </tr>
     <tr>
-      <td>1:00 PM - 2:00 PM</td>
-      <td>  Deployment and configuration of a 5G O-RAN testbed </td>
+      <td>1:00 PM - 2:30 PM</td>
+      <td> Deployment and configuration of a 5G O-RAN testbed </td>
+      <td><a href="https://docs.google.com/presentation/d/1D1yJoU2VZtM1oFWaK-PkXt-Al_a-P2nl8pZOX2KaxxA/edit?usp=sharing">Slides</a></td>
+    </tr>
+    <tr>
+      <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Coffee Break</strong></td>
+    </tr>
+    <tr>
+      <td>02:45 AM - 3:30 PM</td>
+      <td> Deployment and configuration of Hybrid multi-RAN topology </td>
       <td><a href="https://docs.google.com/presentation/d/1D1yJoU2VZtM1oFWaK-PkXt-Al_a-P2nl8pZOX2KaxxA/edit?usp=sharing">Slides</a></td>
     </tr>
   </tbody>
