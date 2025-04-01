@@ -25,11 +25,11 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
     <tr>
       <td>9:30 AM - 10:00 AM</td>
       <td> Introduction to 5G O-RAN​ </td>
-      <td><a href="https://uofwaterloo-my.sharepoint.com/:p:/r/personal/mzangooe_uwaterloo_ca/Documents/Rogers/workshops/Introduction%20-%20W2.pptx?d=w2b0667b1f97942ce804e9355b9075611&csf=1&web=1&e=3tKqyR">Slides</a></td>
+      <td><a href="https://uofwaterloo-my.sharepoint.com/:p:/r/personal/mzangooe_uwaterloo_ca/Documents/Rogers/workshops/Introduction%20-%20W2.pptx?d=w2b0667b1f97942ce804e9355b9075611&csf=1&web=1&e=Weq20e">Slides</a></td>
     </tr>
     <tr>
       <td>10:00 AM - 10:45 PM</td>
-      <td> Deployment and configuration of a simulated 5G RAN  </td>
+      <td> UERANSIM: Deployment and configuration of a simulated 5G RAN  </td>
       <td><a href="https://docs.google.com/presentation/d/1D1yJoU2VZtM1oFWaK-PkXt-Al_a-P2nl8pZOX2KaxxA/edit?usp=sharing">Slides</a></td>
     </tr>
     <tr>
@@ -37,7 +37,7 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
     </tr>
     <tr>
       <td>11:00 AM - 12:00 PM</td>
-      <td>  Deployment and configuration of a simulated 5G RAN </td>
+      <td>  UERANSIM: Deployment and configuration of a simulated 5G RAN </td>
       <td><a href="https://docs.google.com/presentation/d/1D1yJoU2VZtM1oFWaK-PkXt-Al_a-P2nl8pZOX2KaxxA/edit?usp=sharing">Slides</a></td>
     </tr>
     <tr>
@@ -45,7 +45,7 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
     </tr>
     <tr>
       <td>1:00 PM - 2:30 PM</td>
-      <td> Deployment and configuration of a 5G O-RAN testbed </td>
+      <td> OpenAirInterface: Deployment and configuration of a 5G O-RAN testbed </td>
       <td><a href="https://docs.google.com/presentation/d/1D1yJoU2VZtM1oFWaK-PkXt-Al_a-P2nl8pZOX2KaxxA/edit?usp=sharing">Slides</a></td>
     </tr>
     <tr>
@@ -53,7 +53,7 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
     </tr>
     <tr>
       <td>02:45 AM - 3:30 PM</td>
-      <td> Deployment and configuration of Hybrid multi-RAN topology </td>
+      <td> Evaluation: Deployment and configuration of Hybrid multi-RAN topology </td>
       <td><a href="https://docs.google.com/presentation/d/1D1yJoU2VZtM1oFWaK-PkXt-Al_a-P2nl8pZOX2KaxxA/edit?usp=sharing">Slides</a></td>
     </tr>
   </tbody>
