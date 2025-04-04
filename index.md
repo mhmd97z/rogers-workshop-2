@@ -7,7 +7,7 @@ layout: default
 
 Welcome to the second Rogers Executive Workshop, presented as part of the Rogers Chair in Network Automation.
 
-This two-day workshop on TBD will explore essential aspects of 5G technology, including 5G RAN deployment, closed-loop controls in ORAN, and xApps development for monitoring and control.
+This two-day workshop will explore essential aspects of 5G technology, including 5G RAN deployment, closed-loop controls in ORAN, and xApps development for monitoring and control.
 
 ## Workshop Schedule
 
