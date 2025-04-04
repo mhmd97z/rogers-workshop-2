@@ -93,7 +93,7 @@ This two-day workshop will explore essential aspects of 5G technology, including
     </tr>
     <tr>
       <td>1:30 PM - 02:30 PM</td>
-      <td> Introduction to RAN slicing introduction<be> Hands-on: RAN slicing deployment and slicing xApp</td>
+      <td> Introduction to RAN slicing <br> Hands-on: RAN slicing deployment and slicing xApp</td>
       <td><a href="https://docs.google.com/presentation/d/1Hev6va0UH2iXOjRbe-dxXaY262V9uDq-42-N-yh2X_I/edit?slide=id.g341e2affccf_0_0#slide=id.g341e2affccf_0_0">Slides</a></td>
     </tr>
     <tr>
