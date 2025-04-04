@@ -11,7 +11,7 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
 
 ## Workshop Schedule
 
-### Day 1 (Date: TBD): Deploying an open-source 5G RAN testbed​
+### Day 1 (Date: April 8): Deploying an open-source 5G RAN testbed​
 
 <table border="0">
   <thead>
@@ -59,7 +59,7 @@ This two-day workshop on TBD will explore essential aspects of 5G technology, in
   </tbody>
 </table>
 
-### Day 2 (Date: TBD): RAN Monitoring and Control in ORAN
+### Day 2 (Date: April 9): RAN Monitoring and Control in ORAN
 
 <table border="0">
   <thead>
