@@ -76,7 +76,7 @@ This two-day workshop will explore essential aspects of 5G technology, including
       <td><a href="https://docs.google.com/presentation/d/1f7Eud_zbzXoGaJg9Vp3gRAk9DzrMNRfVaJrb2cKWQoo/edit?usp=sharing">Slides</a></td>
     </tr>
     <tr>
-      <td>9:30 AM - 10:15 PM</td>
+      <td>9:30 AM - 10:15 AM</td>
       <td> Hands-on: FlexRIC and E2 Interface </td>
       <td><a href="https://docs.google.com/presentation/d/11U4f6PsRjpgJUvL5to354b7dBU9CYaVWB3wBYRlrCsU/edit?usp=sharing">Slides</a> </td>
     </tr>
@@ -84,7 +84,7 @@ This two-day workshop will explore essential aspects of 5G technology, including
       <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Coffee Break</strong></td>
     </tr>
     <tr>
-      <td>10:30 AM - 12:00 AM</td>
+      <td>10:30 AM - 12:00 PM</td>
       <td>  Hands-on: RAN Monitoring with E2 KPM and xApps​ </td>
       <td><a href="https://docs.google.com/presentation/d/1u94rrCBXczxzq6w8mbUnawZTUAH5uYbFOHmpJrfDEvc/edit?usp=sharing">Slides</a></td>
     </tr>
@@ -100,7 +100,7 @@ This two-day workshop will explore essential aspects of 5G technology, including
       <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Coffee Break</strong></td>
     </tr>
     <tr>
-      <td>02:15 AM - 03:30 PM</td>
+      <td>02:15 PM - 03:30 PM</td>
       <td> Hands-on: ML-based Slice Type Classification in Near-RT RIC </td>
       <td><a href="https://docs.google.com/presentation/d/15u0hudryCLSr2VanGmN6NaWcesRoYuy3Kt70vrwrJoM/edit?usp=sharing">Slides</a> </td>
     </tr>
