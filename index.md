@@ -28,7 +28,7 @@ This two-day workshop will explore essential aspects of 5G technology, including
       <td><a href="https://uofwaterloo-my.sharepoint.com/:p:/r/personal/mzangooe_uwaterloo_ca/Documents/Rogers/workshops/Introduction%20-%20W2.pptx?d=w2b0667b1f97942ce804e9355b9075611&csf=1&web=1&e=Weq20e">Slides</a></td>
     </tr>
     <tr>
-      <td>10:00 AM - 10:45 PM</td>
+      <td>10:00 AM - 10:45 AM</td>
       <td> UERANSIM: Deployment and configuration of a simulated 5G RAN  </td>
       <td><a href="https://docs.google.com/presentation/d/1D1yJoU2VZtM1oFWaK-PkXt-Al_a-P2nl8pZOX2KaxxA/edit?usp=sharing">Slides</a></td>
     </tr>
@@ -52,7 +52,7 @@ This two-day workshop will explore essential aspects of 5G technology, including
       <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Coffee Break</strong></td>
     </tr>
     <tr>
-      <td>02:45 AM - 3:30 PM</td>
+      <td>02:45 PM - 3:30 PM</td>
       <td> Evaluation: Deployment and configuration of Hybrid multi-RAN topology </td>
       <td><a href="https://docs.google.com/presentation/d/1D1yJoU2VZtM1oFWaK-PkXt-Al_a-P2nl8pZOX2KaxxA/edit?usp=sharing">Slides</a></td>
     </tr>
