@@ -25,7 +25,7 @@ This two-day workshop will explore essential aspects of 5G technology, including
     <tr>
       <td>9:15 AM - 10:00 AM</td>
       <td> Introduction to 5G O-RAN​ </td>
-      <td><a href="https://uofwaterloo-my.sharepoint.com/:p:/r/personal/mzangooe_uwaterloo_ca/Documents/Rogers/workshops/Introduction%20-%20W2.pptx?d=w2b0667b1f97942ce804e9355b9075611&csf=1&web=1&e=Weq20e">Slides</a></td>
+      <td><a href="https://github.com/mhmd97z/rogers-workshop-2/blob/main/day2/Introduction%20-%20W2.pdf">Slides</a></td>
     </tr>
     <tr>
       <td>10:00 AM - 10:45 AM</td>
