@@ -1,0 +1,20 @@
+# pdcp radio bearer stats
+
+txpdu_pkts;     /* aggregated number of tx packets */
+txpdu_bytes;    /* aggregated bytes of tx packets */
+txpdu_sn;       /* current sequence number of last tx packet (or TX_NEXT) */
+rxpdu_pkts;     /* aggregated number of rx packets */
+rxpdu_bytes;    /* aggregated bytes of rx packets */
+rxpdu_sn;       /* current sequence number of last rx packet (or  RX_NEXT) */
+rxpdu_oo_pkts;       /* aggregated number of out-of-order rx pkts  (or RX_REORD) */
+rxpdu_oo_bytes; /* aggregated amount of out-of-order rx bytes */
+rxpdu_dd_pkts;  /* aggregated number of duplicated discarded packets */
+rxpdu_dd_bytes; /* aggregated amount of discarded packets' bytes */
+rxpdu_ro_count; /* this state variable indicates the COUNT value */
+txsdu_pkts;     /* number of SDUs delivered */
+txsdu_bytes;    /* number of bytes of SDUs delivered */
+rxsdu_pkts;     /* number of SDUs received */
+rxsdu_bytes;    /* number of bytes of SDUs received */
+rnti;
+mode;               /* 0: PDCP AM, 1: PDCP UM, 2: PDCP TM */
+rbid;

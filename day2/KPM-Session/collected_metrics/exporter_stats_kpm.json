@@ -1,0 +1,34 @@
+{
+	"1":	{
+		"kpm":	{
+			"latency":	1743805244441704,
+			"ue_id_type":	0,
+			"amf_ue_ngap_id":	1,
+			"ran_ue_id":	1,
+			"pdcp_sdu_volume_dl":	0,
+			"pdcp_sdu_volume_ul":	0,
+			"rlc_sdu_delay_dl":	0,
+			"ue_thp_dl":	0,
+			"ue_thp_ul":	0,
+			"prb_tot_dl":	60,
+			"prb_tot_ul":	60,
+			"slice_id":	1
+		}
+	},
+	"2":	{
+		"kpm":	{
+			"latency":	1743805244441704,
+			"ue_id_type":	0,
+			"amf_ue_ngap_id":	2,
+			"ran_ue_id":	2,
+			"pdcp_sdu_volume_dl":	0,
+			"pdcp_sdu_volume_ul":	0,
+			"rlc_sdu_delay_dl":	0,
+			"ue_thp_dl":	0,
+			"ue_thp_ul":	0,
+			"prb_tot_dl":	60,
+			"prb_tot_ul":	65,
+			"slice_id":	1
+		}
+	}
+}

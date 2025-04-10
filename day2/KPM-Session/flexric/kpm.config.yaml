@@ -1,0 +1,2 @@
+granularity: 1000 # in ms
+kpi_list: [DRB.UEThpDl, DRB.UEThpUl] # [DRB.PdcpSduVolumeDL, DRB.PdcpSduVolumeUL, DRB.UEThpDl, DRB.UEThpUl, RRU.PrbTotDl, RRU.PrbTotUl]

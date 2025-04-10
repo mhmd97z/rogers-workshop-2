@@ -1,0 +1,58 @@
+# rlc radio bearer stats
+
+txpdu_pkts;         /* aggregated number of transmitted RLC PDUs */
+txpdu_bytes;        /* aggregated amount of transmitted bytes in RLC PDUs */
+txpdu_wt_ms;        /* TODO: aggregated head-of-line tx packet waiting time to be transmitted (i.e. send to the MAC layer) */
+txpdu_dd_pkts;      /* aggregated number of dropped or discarded tx packets by RLC */
+txpdu_dd_bytes;     /* aggregated amount of bytes dropped or discarded tx packets by RLC */
+txpdu_retx_pkts;    /* aggregated number of tx pdus/pkts to be re-transmitted (only applicable to RLC AM) */
+txpdu_retx_bytes;   /* aggregated amount of bytes to be re-transmitted (only applicable to RLC AM) */
+txpdu_segmented;    /* aggregated number of segmentations */
+txpdu_status_pkts;  /* aggregated number of tx status pdus/pkts (only applicable to RLC AM) */
+txpdu_status_bytes; /* aggregated amount of tx status bytes  (only applicable to RLC AM) */
+txbuf_occ_bytes;    /* (IMPLEMENTED) transmitting bytes currently in buffer */
+txbuf_occ_pkts;     /* TODO: current tx buffer occupancy in terms of number of packets (average: NOT IMPLEMENTED) */
+
+/* txbuf_wd_ms: the time window for which the txbuf  occupancy value is obtained - NOT IMPLEMENTED */
+
+/* RX */
+rxpdu_pkts;         /* aggregated number of received RLC PDUs */
+rxpdu_bytes;        /* amount of bytes received by the RLC */
+rxpdu_dup_pkts;     /* aggregated number of duplicate packets */
+rxpdu_dup_bytes;    /* aggregated amount of duplicated bytes */
+rxpdu_dd_pkts;      /* aggregated number of rx packets dropped or discarded by RLC */
+rxpdu_dd_bytes;     /* aggregated amount of rx bytes dropped or discarded by RLC */
+rxpdu_ow_pkts;      /* aggregated number of out of window received RLC pdu */
+rxpdu_ow_bytes;     /* aggregated number of out of window bytes received RLC pdu */
+rxpdu_status_pkts;  /* aggregated number of rx status pdus/pkts (only applicable to RLC AM) */
+rxpdu_status_bytes; /* aggregated amount of rx status bytes  (only applicable to RLC AM) */
+/* rxpdu_rotout_ms: flag indicating rx reordering  timeout in ms - NOT IMPLEMENTED */
+/* rxpdu_potout_ms: flag indicating the poll retransmit time out in ms - NOT IMPLEMENTED */
+/* rxpdu_sptout_ms: flag indicating status prohibit timeout in ms - NOT IMPLEMENTED */
+rxbuf_occ_bytes;    /* (IMPLEMENTED) received bytes currently in buffer */
+rxbuf_occ_pkts;     /* TODO: current rx buffer occupancy in terms of number of packets (average: NOT IMPLEMENTED) */
+
+
+/* SDU stats */
+/* TX */
+txsdu_pkts;         /* number of SDUs delivered */
+uint64_t txsdu_bytes;        /* (UPDATED) number of SDUs bytes successfully transmitted so far (counter) */
+/* Average time for an SDU to be passed to MAC:
+* Actually measures the time it takes for THE FULL SDU to be passed to MAC FOR THE FIRST TIME.
+* Since the MAC schedules in advance, it does not measure the time of
+* transmission over the air, just the time to reach the MAC layer.
+* => to control it, 'txsdu_hol_waittime' that measures the current HOL-delay is added.
+*/
+double txsdu_avg_time_to_tx; /* (100ms-windowed) per-packet sojourn (SDU to PDU) in microseconds */
+txsdu_wt_us;        /* HOL delay of the current radio bearer, in microseconds */
+
+
+/* RX */
+rxsdu_pkts;         /* number of SDUs received */
+uint64_t rxsdu_bytes;        /* (UPDATED) number of SDUs bytes arrived so far (counter) */
+rxsdu_dd_pkts;      /* number of dropped or discarded SDUs */
+rxsdu_dd_bytes;     /* number of bytes of SDUs dropped or discarded */
+
+rnti;
+uint8_t mode;               /* 0: RLC AM, 1: RLC UM, 2: RLC TM */
+uint8_t rbid;
