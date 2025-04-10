@@ -1,0 +1,32 @@
+Name	Explanation
+Timestamp	Time stamp 
+num_ues	Number of Ues
+IMSI	International Mobile Subscriber Identity
+RNTI	Radio Network Temporary Identifier
+slicing_enabled	Is slicing enabled?
+slice_id	Unique id number for the slice
+slice_prb	Number of PRBs assigned to this slice
+power_multiplier	power multiplier
+scheduling_policy	# of current scheduling policy
+dl_mcs	Downlink Modulation and Coding Scheme
+dl_n_samples	Downlink number of samples transmitted since last time stamp
+dl_buffer [bytes]	Downlink current queue length in bytes
+tx_brate downlink [Mbps]	Downlink throughput in Mbps
+tx_pkts downlink	Downlink number of packets transmitted since last timestamp
+tx_errors downlink (%)	Downlink error rate % since during last time period
+dl_cqi	Downlink Channel Qaulity Indicator
+ul_mcs	Uplink Modulation and Coding Scheme
+ul_n_samples	Uplink number of samples received since last time stamp
+ul_buffer [bytes]	Uplink current queue length in bytes
+rx_brate uplink [Mbps]	Uplink throughput in Mbps
+rx_pkts uplink	Uplink number of packets received since last timestamp
+rx_errors uplink (%)	Uplink error rate % during last period
+ul_rssi	Uplink Received Signal Strength Indicator
+ul_sinr	Uplink SINR
+phr	UE Power Head Room
+sum_requested_prbs	Total requested PRBs
+sum_granted_prbs	Total granted PRBs
+dl_pmi	Downlink Precoding Matrix Indicator
+dl_ri	Downlink Rank Indicator
+ul_n	Uplink number of samples received since last time stamp
+ul_turbo_iters	Uplink TurboCoder iterations
