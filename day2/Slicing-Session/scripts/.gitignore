@@ -1,0 +1,10 @@
+stats-0.log
+nrL1_stats.log
+nrMAC_stats.log
+nrRRC_stats.log
+ue_1.log
+ue_2.log
+nrL1_UE_stats-0.log
+measurements.csv
+ue_data.csv
+config.json
